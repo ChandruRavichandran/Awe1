@@ -95,7 +95,7 @@ function Home() {
 
                        </div>
 
-                       <div className="approch03a">
+                       <div className="approch03a approch03aa">
                          <div className="approch04">- Implementation</div>
                          <div className="approch05">We'll implement and monitor the changes to ensure lasting success.</div>
 
@@ -143,15 +143,12 @@ function Home() {
                   <div>
                     <div>
                       <h1>
-                        Our primary mission is to
-                        <br /> drive hybrid growth across<br/>
-                        various dimensions.
+                      Our primary goal is to help <br></br>you achieve growth in<br></br> different areas using a<br></br> hybrid approach.
                       </h1>
                    <a className="jytfukgh" href="/capabilities">   <p className="capabi">Our Capabilities<img src="/images/arrr1.svg" /></p></a>
                     </div>
                     <p className="lastpara">
-                      Explore our capabilities and embark on a journey to<br /> success
-                      with Aweganyz.
+                    Discover what we can do and start your growth journey <br></br>with Aweganyz.
                     </p>
                   </div>
                   <div className="thirdheCON">
