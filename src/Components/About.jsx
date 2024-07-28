@@ -1,4 +1,5 @@
 import React from "react";
+import Fo4 from "./Footer/Fo4";
 
 function About() {
   return (
@@ -81,17 +82,14 @@ function About() {
                 <div class="accordion-body" id="boduiui">
                   <div className="innerbod">
                     <div>
-                      Nunc massa tempor etiam scelerisque a sit sodales nisl.
-                      Diam vitae adipiscing scelerisque faucibus habitant donec
-                      gravida vel. Elit quisque enim dictum neque pellentesque
-                      auctor praesent integer. Sit volutpat ullamcorper ultrices
-                      feugiat vitae turpis viverra sed. Fermentum diam arcu
-                      lorem egestas gravida. Velit elementum egestas mattis a
-                      donec urna porta. Tristique lorem commodo nisl malesuada.
-                      Adipiscing felis laoreet adipiscing consectetur amet id
-                      dictum mi nam. Non nulla fringilla dignissim arcu amet.
-                      Magnis eu at vel mattis at habitant. Dolor vestibulum
-                      lacinia cum enim leo nunc viverra pellentesque.
+                    Sajen Sivaraman, the visionary founder and creator of Aweganyz, is pioneering the establishment of the country’s first bespoke Hybrid Growth Enabling Company. A graduate of the National Institute of Fashion Technology (NIFT) and a serial entrepreneur, Sajen brings eight years of diverse cross-functional experience in founding and consulting across various industries, including design, fashion, food & beverage, information technology, retail, and real estate.
+<br></br>
+<br></br>
+His expertise is grounded in a deep understanding of both strategic vision and meticulous implementation, consistently delivering high-impact results. Sajen's approach combines creativity and pragmatism, enabling him to seamlessly manage Aweganyz alongside his other successful ventures, all while maintaining focus and integrity.
+<br></br>
+<br></br>
+Sajen's commitment to excellence and innovation makes him an invaluable asset to any project he undertakes, ensuring that all endeavours are executed with precision and a keen eye for detail.
+
                     </div>
                   </div>
                 </div>
@@ -143,17 +141,10 @@ function About() {
                 <div class="accordion-body" id="boduiui">
                   <div className="innerbod">
                     <div>
-                      Nunc massa tempor etiam scelerisque a sit sodales nisl.
-                      Diam vitae adipiscing scelerisque faucibus habitant donec
-                      gravida vel. Elit quisque enim dictum neque pellentesque
-                      auctor praesent integer. Sit volutpat ullamcorper ultrices
-                      feugiat vitae turpis viverra sed. Fermentum diam arcu
-                      lorem egestas gravida. Velit elementum egestas mattis a
-                      donec urna porta. Tristique lorem commodo nisl malesuada.
-                      Adipiscing felis laoreet adipiscing consectetur amet id
-                      dictum mi nam. Non nulla fringilla dignissim arcu amet.
-                      Magnis eu at vel mattis at habitant. Dolor vestibulum
-                      lacinia cum enim leo nunc viverra pellentesque.
+                    Praveen Rathan, a co-founder of Aweganyz, holds a Master's degree in Business Administration with a specialization in Digital Marketing and E-commerce. With five years of experience, he is a highly skilled Digital Product Designer specializing in design, development, and digital prototyping. Praveen excels in Product and Communication Design, leveraging his expertise to drive innovation in various fields.
+                    <br></br>
+<br></br>
+                    Praveen's work and consulting experience span educational technology, food technology, retail and e-commerce. His innovative, self-developed methodologies enable clients to effectively ideate and create both physical and digital products. His approach ensures that projects are not only visually appealing but also strategically aligned with market demands.
                     </div>
                   </div>
                 </div>
@@ -204,17 +195,7 @@ function About() {
                 <div class="accordion-body" id="boduiui">
                   <div className="innerbod">
                     <div>
-                      Nunc massa tempor etiam scelerisque a sit sodales nisl.
-                      Diam vitae adipiscing scelerisque faucibus habitant donec
-                      gravida vel. Elit quisque enim dictum neque pellentesque
-                      auctor praesent integer. Sit volutpat ullamcorper ultrices
-                      feugiat vitae turpis viverra sed. Fermentum diam arcu
-                      lorem egestas gravida. Velit elementum egestas mattis a
-                      donec urna porta. Tristique lorem commodo nisl malesuada.
-                      Adipiscing felis laoreet adipiscing consectetur amet id
-                      dictum mi nam. Non nulla fringilla dignissim arcu amet.
-                      Magnis eu at vel mattis at habitant. Dolor vestibulum
-                      lacinia cum enim leo nunc viverra pellentesque.
+                    Kamaleshwar R is a tech expert with a Master of Computer Applications from the Coimbatore Institute of Technology. With eight years of experience, he has been instrumental in developing popular technology products during his time at Tata Consultancy Services and Petrus, a unit of Lakshmi Machine Works (LMW). His expertise spans backend development, machine learning, and the Internet of Things (IoT). He embarked on his consulting journey two years ago, dedicated to helping businesses grow through technology-enabled operations, enterprise planning and supply chain management systems.
                     </div>
                   </div>
                 </div>
@@ -223,7 +204,7 @@ function About() {
           </div>
         </div>
       </div>
-
+<Fo4/>
    
     </>
   );

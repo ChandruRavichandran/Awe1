@@ -1,4 +1,5 @@
 import React from "react";
+import Footer from "./Footer/Footer";
 
 function Home() {
   return (
@@ -6,9 +7,9 @@ function Home() {
       <header>
         <section>
           <div className="headcontent">
-            <p className="h5">Aweganyz [awe-guh-nahyz] derived from the word "organize".</p>
+            {/* <p className="h5">Aweganyz [awe-guh-nahyz] derived from the word "organize".</p> */}
             <h1>Is Your Growth-Stage Company Ready for a Modern Makeover?</h1>
-            <p>Innovate. Adapt. Grow.</p>
+            <p>Align. Adapt. Grow.</p>
 
             <div className="Lastcontent"> 
      
@@ -77,7 +78,7 @@ function Home() {
 
                   <div className="proven2">
                     <div className="proven21">Our Expertise, Your Success</div>
-                    <div className="proven22"><a className="jytfukgh  capabi" href="/capabilities">  Schedule a Free Consultation<img src="/images/arrr1.svg" /></a>
+                    <div className="proven22"><a className="jytfukgh   capabia" href="/capabilities">  Schedule a Free Consultation<img src="/images/arrb.svg"  /></a>
                     </div>
 
                   </div>
@@ -190,7 +191,7 @@ function Home() {
               </div>
   
             </div>
-
+<Footer/>
     </>
   );
 }

@@ -79,7 +79,7 @@ const Sidebar = ({ isopen, toggle }) => {
            <div className="tyfuyi">
                <div>
    
-                <p className="rftgh">Strategy</p>
+                <p className="rftgh"><a href="/strategy">Strategy</a></p>
                 <p className="rftgh">Transformation</p>
                 <p className="rftgh">People and Organisation</p>
                 <p className="rftgh">Growth, Marketing & Sales</p>
@@ -138,7 +138,7 @@ const Sidebar = ({ isopen, toggle }) => {
              
                <div className="ytufghi" id="hgfuj">  <a href="/aboutus">About Us</a></div>
                <hr />
-               <div className="ytufghi"  id="hgfuj">Contact</div>
+               <div className="ytufghi"  id="hgfuj"> <a href="/contact">Contact</a></div>
 
                <div className="menufooter">
                 <p id="hgfv">Drop us a line:</p>

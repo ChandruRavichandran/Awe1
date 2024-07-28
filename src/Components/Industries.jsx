@@ -1,4 +1,5 @@
 import React from 'react'
+import Fo6 from './Footer/Fo6'
 
 const Industries = () => {
   return (
@@ -49,6 +50,7 @@ const Industries = () => {
        </div>
     </section>
   </header>
+  <Fo6/>
 </>
   )
 }

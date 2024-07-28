@@ -1,4 +1,5 @@
 import React from "react";
+import Fo2 from "./Footer/Fo2";
 
 function Capability() {
   return (
@@ -495,6 +496,7 @@ function Capability() {
           </div>
         </section>
       </header>
+      <Fo2/>
     </>
   );
 }
